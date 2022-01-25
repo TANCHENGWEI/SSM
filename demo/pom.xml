@@ -146,7 +146,7 @@
             <scope>compile</scope>
         </dependency>
 
-        <!--master branch-->
+        <!--git branch-->
 
     </dependencies>
     <properties>
