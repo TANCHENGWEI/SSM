@@ -146,7 +146,7 @@
             <scope>compile</scope>
         </dependency>
 
-        <!--master branch edit conflict-->
+        <!--master branch-->
 
     </dependencies>
     <properties>
